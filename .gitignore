@@ -1,0 +1,4 @@
+# Project exclude paths
+/byte-buddy-agent/target/
+/target/
+/trace-agent/target/
